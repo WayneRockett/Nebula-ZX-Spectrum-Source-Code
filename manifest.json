@@ -1,0 +1,52 @@
+[
+  {
+    "type": 0,
+    "name_hex": "4e4542554c4120202020",
+    "name": "b'NEBULA    '",
+    "length": 352,
+    "parameter1": 10,
+    "parameter2": 333,
+    "offset": 21,
+    "file": "loader.bin",
+    "checksum_valid": true,
+    "basic_lines": 9,
+    "basic_bytes": 333,
+    "variables_bytes": 19
+  },
+  {
+    "type": 3,
+    "name_hex": "43484152414354455253",
+    "name": "b'CHARACTERS'",
+    "length": 56,
+    "parameter1": 65479,
+    "parameter2": 32768,
+    "offset": 398,
+    "file": "characters.bin",
+    "checksum_valid": true
+  },
+  {
+    "type": 3,
+    "name_hex": "50524554545920504943",
+    "name": "b'PRETTY PIC'",
+    "length": 6912,
+    "parameter1": 16384,
+    "parameter2": 32848,
+    "offset": 479,
+    "file": "loading-screen.bin",
+    "checksum_valid": true
+  },
+  {
+    "type": 0,
+    "name_hex": "8f8f8f8f8f8f8f8f8f8f",
+    "name": "b'\\x8f\\x8f\\x8f\\x8f\\x8f\\x8f\\x8f\\x8f\\x8f\\x8f'",
+    "length": 36317,
+    "parameter1": 5,
+    "parameter2": 36317,
+    "offset": 7416,
+    "file": "nebula.bin",
+    "checksum_valid": true,
+    "basic_lines": 479,
+    "basic_bytes": 36317,
+    "variables_bytes": 0
+  }
+]
